@@ -1,0 +1,28 @@
+{
+  "name": "virtues-api",
+  "version": "0.0.1",
+  "description": "API for the 13 Virtues Application",
+  "main": "app.js",
+  "dependencies": {
+    "passport": "^0.3.2",
+    "passport-jwt": "^2.0.0",
+    "sequelize": "^3.23.3"
+  },
+  "devDependencies": {
+    "nodemon": "^1.9.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/back9/virtues-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/back9/virtues-api/issues"
+  },
+  "homepage": "https://github.com/back9/virtues-api#readme"
+}
